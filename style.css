@@ -19,3 +19,9 @@ h1,p {
 color: #777;
 background-color: #ebebeb;
 }
+
+/*Why is section width called out separate from step 2??*/
+
+section {
+    width:495px;
+}
