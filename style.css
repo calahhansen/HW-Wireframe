@@ -28,9 +28,23 @@ background-color: #ebebeb;
 
 section {
     width:495px;
-    background-color: #ebebeb
+    padding: 20px;
+    margin: 15px 15px 15px 0px;
+    background-color: #ebebeb;
+    float: left;
 }
 
 aside {
-    background-color: #ebebeb
+    background-color: #ebebeb;
+    padding: 20px;
+    margin: 15px 0px 15px 15px;
+    float: right;
+    height: 140px;
+    width: 355px;
+    
+}
+
+footer {
+    clear: both;
+    overflow: auto;
 }
