@@ -10,13 +10,14 @@ text-align: center;
 
 header,nav,footer {
 background-color: #ebebeb;
-padding: 20px;
+padding: 30px;
 margin-bottom: 10px;
 }
 
 article {
 color: #ebebeb;
 background-color: #777;
+height: 100px;
 }
 
 h1,p {
@@ -27,8 +28,9 @@ background-color: #ebebeb;
 /*Why is section width called out separate from step 2??*/
 
 section {
-    width:495px;
-    padding: 20px;
+    width: 495px;
+    height: 300px;
+    padding: 30px;
     margin: 15px 15px 15px 0px;
     background-color: #ebebeb;
     float: left;
@@ -36,11 +38,11 @@ section {
 
 aside {
     background-color: #ebebeb;
-    padding: 20px;
+    padding: 30px;
     margin: 15px 0px 15px 15px;
     float: right;
-    height: 140px;
-    width: 355px;
+    height: 300px;
+    width: 315px;
     
 }
 
