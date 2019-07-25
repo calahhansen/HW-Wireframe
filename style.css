@@ -32,7 +32,7 @@ h1 {
     font-size: 20px;
 }
 
-/*Why is section width called out separate from step 2??*/
+/*Why is section width called out separate from step 2?? Does this mean that I have to keep it at 495px for duration or just to get started??*/
 
 section {
     width: 495px;
@@ -50,11 +50,12 @@ aside {
     margin: 15px 0px 15px 15px;
     float: right;
     height: 240px;
-    width: 370px;
+    width: 375px;
     
 }
-
+/*How do I push the footer further down?  tried margin bottom, top, padding*/
 footer {
     clear: both;
     overflow: auto;
+    
 }
